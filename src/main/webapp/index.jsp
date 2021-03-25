@@ -10,6 +10,7 @@
 	<header>
 	헤더 데스
 		<div>회원가입</div>
+		<div>관리자</div>
 	</header>
 	<article>
 	본문
