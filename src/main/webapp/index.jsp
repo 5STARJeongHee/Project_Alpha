@@ -11,6 +11,7 @@
 		헤더 데스
 		<div>회원가입</div>
 		<div>about</div>
+		<div>관리자</div>
 	</header>
 	<article>
 		본문
